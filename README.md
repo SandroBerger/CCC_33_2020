@@ -1,4 +1,5 @@
 # Coding Contest 33 (April 2020)
+The input files for all levels can be found under the resouce folder where also the output files get saved to.
 
 ## Level 1
 
